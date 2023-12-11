@@ -1,0 +1,23 @@
+.p-co02__main {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.p-co02__fv-sec {
+    padding: 3rem 0;
+    margin: auto;
+}
+
+.p-co02__fv-contents {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p-co02__fv-contents>p {
+    margin-bottom: 1rem;
+}
